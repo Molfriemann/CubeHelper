@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "三阶魔方": {
+      "tags": [
+        "CFOP",
+        "七步层先",
+        "出错"
+      ],
+      "preset": true,
+      "preset_name": "三阶魔方"
+    }
+  },
+  "records": {
+    "三阶魔方": []
+  },
+  "next_record_id": 2
+}
